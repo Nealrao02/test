@@ -1,7 +1,7 @@
  let a=10;
 
  if (a%2==0){
-    console.log("odd");
+    console.log("even");
  }else{
-    console.log("even")
+    console.log("odd")
  }
